@@ -67,6 +67,12 @@ This project takes the user’s **day, month, and year** of birth and calculates
 - [`style.css`](./projects/project01/style.css)
 - [`script.js`](./projects/project01/script.js)
 
+### 🔗 Live Demo
+
+You can view the live version of Project 01 here:
+
+👉 **Live Preview:**  
+[Age Calculator](https://helinucar.github.io/js-journal/day01/projects/project01/)
 
 ---
 
